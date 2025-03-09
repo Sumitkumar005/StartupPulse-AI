@@ -8,7 +8,7 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG)
 
-# Setting up Streamlit app
+# Setting up Streamlits app
 st.title("StartupPulse-AI Agent 📈")
 st.caption("Get the latest trend analysis and startup opportunities based on your topic of interest in a click!.")
 
