@@ -52,4 +52,4 @@ The AI Startup Trend Analysis Agent is a tool for budding entrepreneurs that gen
 - **Output**: "The latest trends include increased funding in AI-driven healthcare solutions and advancements in natural language processing."
 
 ### Contribution Guidelines
-We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes..
