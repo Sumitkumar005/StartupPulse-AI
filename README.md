@@ -23,7 +23,7 @@ The AI Startup Trend Analysis Agent is a tool for budding entrepreneurs that gen
    cd your-repo
    ```
 
-2. **Create and activate a virtual environment**:
+2. **Create and activate a virtual environment**:.
    ```bash
    # For macOS/Linux
    python -m venv venv
